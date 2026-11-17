@@ -25,7 +25,7 @@ repositories:
 
 website: "https://velero.io"
 
-artwork: "https://landscape.cncf.io/logos/project-velero.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/velero"
 
 adopters:
   path: "https://github.com/velero-io/velero/blob/main/ADOPTERS.md"
